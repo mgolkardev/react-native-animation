@@ -7,5 +7,8 @@
 - `$ react-native run-android` or `$ react-native run-ios`
 - Injoy!
 
+##Demo
+- [Youtube](https://youtu.be/IIzpyxn46ac)
+
 ###Pull request
-- [@mgolkardev](https://github.com/mgolkardev/react-native-animation)
+- [@mgolkardev](https://github.com/mgolkardev)
