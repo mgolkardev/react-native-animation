@@ -8,4 +8,4 @@
 - Injoy!
 
 ###Pull request
-- [@mgolkardev](https://github.com/mgolkardev)
+- [@mgolkardev](https://github.com/mgolkardev/react-native-animation)
